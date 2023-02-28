@@ -6,4 +6,5 @@ Remember the good old days of Nokia brick phones and the iconic Snake game? Well
 
 #### Credits: 
 Logo: Snake by ProSymbols from the Noun Project
+
 Sounds: Arno Faure from https://arnofaure.github.io/free-sfx/
